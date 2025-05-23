@@ -2,10 +2,20 @@
 # File handlings, buttons, hyperlinks, inputs, and more might be added in later versions (please add vector subspaces, we LOVE mathematics).
 # Developed in Pygame, and by two students interested in computer science.
 
+# Depending on what you, the user downloads, there are two different ways to launch LysineCode properly.
+
+# Method 1: Downloading "LysineCode.v0.1.0.zip"
 # After Downloading, here are the steps to launch LysineCode v0.1.0 properly:
-# 1. Extract the Download ZIP File - these contain key data like images and the font, so the program will crash if not extracted.
+# 1. Extract the Downloaded ZIP File - these contain key data like images and the font, so the program will crash if not extracted.
 # 2. Open that folder.
 # 3. Double-Click "LysineCode.exe" to launch our program!
+
+# Method 2: Downloading "LysineCode v.0.1.0 Source Code.zip"
+# 1. Extract the Downloaded ZIP File.
+# 2. Make sure you have Python installed.
+# 3. Open Microsoft Powershell
+# 4. Run: cd "Path\To\Your\New\Downloaded\Unzipped\Folder" (grab the path from Files). If this does not work, try entering them one by one.
+# 5. Run: python.exe LysineCode.py. This should open a Pygame window, which is our program!
 
 # This .exe file was created using PyInstaller, and sometimes Windows Defender or other antivirus software may mistakenly flag it as suspicious due to its format, blocking the usage of the file.
 # If this occurs, you can safely run the Python version (main.py) provided in the ZIP folder, or choose to build your own executable using the source code.
