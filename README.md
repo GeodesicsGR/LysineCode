@@ -7,6 +7,9 @@
 # 2. Open that folder.
 # 3. Double-Click "LysineCode.exe" to launch our program!
 
+# This .exe file was created using PyInstaller, and sometimes Windows Defender or other antivirus software may mistakenly flag it as suspicious due to its format, blocking the usage of the file.
+# If this occurs, you can safely run the Python version (main.py) provided in the ZIP folder, or choose to build your own executable using the source code.
+
 # All the code that you run will be printed in your Operating System's coding program (e.g. Powershell for Windows)
 
 # Enjoy coding!
