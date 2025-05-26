@@ -10,12 +10,10 @@
 # 2. Open that folder.
 # 3. Double-Click "LysineCode.exe" to launch our program!
 
-# Method 2: Downloading "LysineCode v.0.1.0 Source Code.zip"
+# Method 2: Downloading "LysineCode v.0.1.0 Code.zip"
 # 1. Extract the Downloaded ZIP File.
-# 2. Make sure you have Python installed.
-# 3. Open Microsoft Powershell
-# 4. Run: cd "Path\To\Your\New\Downloaded\Unzipped\Folder" (grab the path from Files). If this does not work, try entering them one by one.
-# 5. Run: python.exe LysineCode.py. This should open a Pygame window, which is our program!
+# 2. Open this folder in VSCode
+# 3. Run this program.
 
 # This .exe file was created using PyInstaller, and sometimes Windows Defender or other antivirus software may mistakenly flag it as suspicious due to its format, blocking the usage of the file.
 # If this occurs, you can safely run the Python version (main.py) provided in the ZIP folder, or choose to build your own executable using the source code.
